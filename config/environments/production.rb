@@ -82,5 +82,5 @@ Rails.application.configure do
 
 
   #REQUIRED for Heroku
-  config.action_mailer.default_url_options = { :host => 'http://getlunchbuddies.herokuapp.com/' }
+  config.action_mailer.default_url_options = { :host => 'http://getlunchbuddy.herokuapp.com/' }
 end
